@@ -1,0 +1,6 @@
+{
+  "name": "Web Portal",
+  "description": "Android WebApp client for the Google Apps Script web portal with file upload and download support, offline detection, and native navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

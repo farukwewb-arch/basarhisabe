@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Web Portal</string>
+    <string name="subtitle_web_portal">Web Application</string>
+    <string name="loading_message">অ্যাপ লোড হচ্ছে…</string>
+    <string name="loading_submessage">সার্ভারের সাথে সংযোগ করা হচ্ছে</string>
+    <string name="cd_back">পিছনে যান</string>
+    <string name="cd_refresh">রিফ্রেশ করুন</string>
+    <string name="cd_home">হোমে যান</string>
+    <string name="cd_more_options">আরও অপশন</string>
+    <string name="cd_exit_fullscreen">টুলবার দেখান</string>
+    <string name="cd_offline_illustration">ইন্টারনেট সংযোগ বিচ্ছিন্ন</string>
+    <string name="menu_fullscreen">পূর্ণ স্ক্রিন</string>
+    <string name="menu_open_browser">ব্রাউজারে খুলুন</string>
+    <string name="menu_share">লিঙ্ক শেয়ার করুন</string>
+    <string name="menu_clear_cache">ক্যাশ পরিষ্কার ও রিলোড</string>
+    <string name="error_offline_title">ইন্টারনেট সংযোগ নেই</string>
+    <string name="error_offline_message">অনুগ্রহ করে আপনার Wi-Fi বা মোবাইল ডেটা চালু করে আবার চেষ্টা করুন।</string>
+    <string name="error_load_title">পেজটি লোড করা যায়নি</string>
+    <string name="error_load_fallback">সার্ভার থেকে সাড়া পাওয়া যাচ্ছে না। কিছুক্ষণ পর আবার চেষ্টা করুন।</string>
+    <string name="action_retry">আবার চেষ্টা করুন</string>
+    <string name="action_go_home">হোমে ফিরে যান</string>
+    <string name="msg_press_back_again">অ্যাপ থেকে বের হতে আবার ব্যাক চাপুন</string>
+    <string name="msg_download_started">ডাউনলোড শুরু হয়েছে: %1$s</string>
+    <string name="msg_download_saved">ফাইল সংরক্ষণ করা হয়েছে</string>
+    <string name="msg_download_failed">ডাউনলোড ব্যর্থ হয়েছে</string>
+    <string name="msg_cache_cleared">ক্যাশ পরিষ্কার করা হয়েছে</string>
+    <string name="msg_no_app_for_link">এই লিঙ্কটি খোলার জন্য কোনো অ্যাপ পাওয়া যায়নি</string>
+    <string name="share_chooser_title">লিঙ্ক শেয়ার করুন</string>
+    <string name="status_offline_badge">অফলাইন</string>
+</resources>
